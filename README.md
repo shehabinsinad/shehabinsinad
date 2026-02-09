@@ -1,2 +1,37 @@
-# Hi, I’m Shehabin Sinad S  
-- 8th-semester CSE student at MESCE  
+# Hi, I'm Shehabin Sinad S 👋
+
+🎓 **Final-year Computer Science student** at MES College of Engineering, Kuttippuram
+
+💻 **Focus Areas:** Mobile Development, Web Development, Backend Systems, Data Structures & Algorithms
+
+🔧 **Tech Stack:**
+- **Languages:** Python, Java, Dart, JavaScript, C, SQL
+- **Mobile:** Flutter, Firebase
+- **Web:** Flask, Node.js, REST APIs
+- **Database:** SQL, Firestore, SQLite
+- **Tools:** Git, VS Code, Postman
+
+## 🚀 Featured Projects
+
+### 🏥 [ChainCare](https://github.com/shehabinsinad/ChainCare)
+Secure medical record management system with biometric authentication and blockchain audit trails
+- **Tech:** Flutter, Firebase, Node.js, Polygon blockchain
+- **My Role:** Authentication & user management module
+
+### 📱 [Smart Barcode Evaluator](https://github.com/shehabinsinad/Smart_Barcode_Evaluator)
+Nutrition analysis app with personalized health scoring
+- **Tech:** Flutter, Firebase, REST APIs, ML Kit
+- **My Role:** Health scoring algorithm & Firebase integration
+
+### 🌍 [TerraTime](https://github.com/shehabinsinad/TerraTime)
+Environmental monitoring tool using satellite imagery analysis
+- **Tech:** Python, Streamlit, Google Earth Engine API
+- **My Role:** API integration & data processing pipeline
+
+## 📫 Connect With Me
+- **Email:** shehabinsinad@gmail.com
+- **LinkedIn:** [linkedin.com/in/shehabin-sinad-s](https://linkedin.com/in/shehabin-sinad-s)
+
+---
+
+💡 Currently: Strengthening DSA skills & building full-stack applications
