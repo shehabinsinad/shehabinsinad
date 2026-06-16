@@ -1,8 +1,8 @@
 # Hi, I'm Shehabin Sinad S 👋
 
-🎓 **Final-year Computer Science student** at MES College of Engineering, Kuttippuram
+🎓 **CS Graduate (2026)**, MES College of Engineering, Kuttippuram
 
-💻 **Focus Areas:** Mobile Development, Web Development, Backend Systems, Data Structures & Algorithms
+💻 **Focus Areas:** Java Backend Development, Spring Boot, REST APIs, DSA.
 
 🔧 **Tech Stack:**
 - **Languages:** Python, Java, Dart, JavaScript, C, SQL
