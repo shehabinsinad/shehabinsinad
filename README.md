@@ -5,7 +5,7 @@
 💻 **Focus Areas:** Java Backend Development, Spring Boot, REST APIs, DSA.
 
 🔧 **Tech Stack:**
-- **Languages:** Python, Java, Dart, JavaScript, C, SQL
+- **Languages:** Java, Python, Dart, JavaScript, C, SQL
 - **Mobile:** Flutter, Firebase
 - **Web:** Flask, Node.js, REST APIs
 - **Database:** SQL, Firestore, SQLite
@@ -34,4 +34,4 @@ Environmental monitoring tool using satellite imagery analysis
 
 ---
 
-💡 Currently: Strengthening DSA skills & building full-stack applications
+💡 Currently: Building foundational skills in Java backend development — Spring Boot, PostgreSQL, REST APIs — ahead of a Software Engineer internship at Bytestrone starting August 2026.
