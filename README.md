@@ -34,4 +34,4 @@ Environmental monitoring tool using satellite imagery analysis
 
 ---
 
-💡 Currently: Building foundational skills in Java backend development — Spring Boot, PostgreSQL, REST APIs — ahead of a Software Engineer internship at Bytestrone starting August 2026.
+💡 Currently: Building foundational skills in Java backend development — Spring Boot, PostgreSQL, REST APIs — ahead of a Software Engineer internship at Bytestrone starting October 2026.
